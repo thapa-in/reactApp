@@ -4,10 +4,10 @@
 1. Type command "NPM INSTALL -G FIREBASE-TOOLS"
 1. Type command "FIREBASE LOGIN"
    - If already logged in then msg will show "you are logged in"
-  - If you are not logged in then Browser will open with firebase login page
+   - If you are not logged in then Browser will open with firebase login page
 1. Type command "firebase init" (for initialize all things ready to upload)
-  - Are you ready to proceed ? (Y/N) then you type "Y".
-  - Which services you want to use like
+   - Are you ready to proceed ? (Y/N) then you type "Y".
+   - Which services you want to use like
 	- Database, Firestore, Functions, Hosting, Storage, etc.
 	- Select "Hosting" by up-down arrow keys and space bar key.
 	- press "ENTER"
