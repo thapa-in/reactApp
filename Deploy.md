@@ -8,15 +8,15 @@
 1. Type command "firebase init" (for initialize all things ready to upload)
    - Are you ready to proceed ? (Y/N) then you type "Y".
    - Which services you want to use like
-	- Database, Firestore, Functions, Hosting, Storage, etc.
-	- Select "Hosting" by up-down arrow keys and space bar key.
-	- press "ENTER"
+      - Database, Firestore, Functions, Hosting, Storage, etc.
+      - Select "Hosting" by up-down arrow keys and space bar key.
+      - press "ENTER"
   - Please select an option (for new project / exist project or else)
-	- select "exist project..."
+      - select "exist project..."
   - Select a default firebase project for this directory. (exist project name)
-	- selct desired project.
+      - selct desired project.
   - What do you want to use as your public directory? (public) 
-	- type name of you build project folder name that contains files like "build"
+      - type name of you build project folder name that contains files like "build"
 		- No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
 		- go to project folder in cmd
 		- type command "NPM RUN BUILD"
