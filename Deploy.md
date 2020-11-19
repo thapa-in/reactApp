@@ -5,7 +5,7 @@
 1. Type command **'FIREBASE LOGIN'**
    - If already logged in then msg will show "you are logged in"
    - If you are not logged in then Browser will open with firebase login page
-1. Type command "firebase init" (for initialize all things ready to upload)
+1. Type command **'FIREBASE INIT'** (for initialize all things ready to upload)
    - Are you ready to proceed ? (Y/N) then you type "Y".
    - Which services you want to use like
       - Database, Firestore, Functions, Hosting, Storage, etc.
@@ -19,8 +19,8 @@
       - type name of you build project folder name that contains files like "build"
 	 - No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
 	 - go to project folder in cmd
-	 - type command "NPM RUN BUILD"
+	 - type command **'NPM RUN BUILD'**
       - Configure as a single page app (rewrite all urls to /index.html)? (y/N) then we type "N"  
-1. Type command "FIREBASE DEPLOY"
+1. Type command **'FIREBASE DEPLOY'**
       - after deploy a link given by cmd 
       - help of this link we can see project running in chrome or other browser.
