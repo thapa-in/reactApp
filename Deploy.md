@@ -1,4 +1,3 @@
-
 Open Project in windows explorer.
 Type "CMD" in address bar and press "enter"
 Command Prompt will open with path of your project
