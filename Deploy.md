@@ -17,9 +17,9 @@
       - selct desired project.
    - What do you want to use as your public directory? (public) 
       - type name of you build project folder name that contains files like "build"
-	 - No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
-	 - go to project folder in cmd
-	 - type command **'NPM RUN BUILD'**
+        - No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
+        - go to project folder in cmd
+        - type command **'NPM RUN BUILD'**
       - Configure as a single page app (rewrite all urls to /index.html)? (y/N) then we type "N"  
 1. Type command **'FIREBASE DEPLOY'**
       - after deploy a link given by cmd 
