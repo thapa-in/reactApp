@@ -11,16 +11,16 @@
       - Database, Firestore, Functions, Hosting, Storage, etc.
       - Select "Hosting" by up-down arrow keys and space bar key.
       - press "ENTER"
-  - Please select an option (for new project / exist project or else)
+   - Please select an option (for new project / exist project or else)
       - select "exist project..."
-  - Select a default firebase project for this directory. (exist project name)
+   - Select a default firebase project for this directory. (exist project name)
       - selct desired project.
-  - What do you want to use as your public directory? (public) 
+   - What do you want to use as your public directory? (public) 
       - type name of you build project folder name that contains files like "build"
-		- No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
-		- go to project folder in cmd
-		- type command "NPM RUN BUILD"
-	- Configure as a single page app (rewrite all urls to /index.html)? (y/N) then we type "N"  
+	 - No problem if you not build your project, after complete initializing and before deploy you can build help of these following steps.
+	 - go to project folder in cmd
+	 - type command "NPM RUN BUILD"
+      - Configure as a single page app (rewrite all urls to /index.html)? (y/N) then we type "N"  
 1. Type command "FIREBASE DEPLOY"
-  - after deploy a link given by cmd 
-  - help of this link we can see project running in chrome or other browser.
+      - after deploy a link given by cmd 
+      - help of this link we can see project running in chrome or other browser.
