@@ -4,7 +4,7 @@ Type "CMD" in address bar and press "enter"
 Command Prompt will open with path of your project
 Type command "NPM INSTALL -G FIREBASE-TOOLS"
 Type command "FIREBASE LOGIN"
-  - If already logged in then msg will show "you are logged in"
+   - If already logged in then msg will show "you are logged in"
   - If you are not logged in then Browser will open with firebase login page
 Type command "firebase init" (for initialize all things ready to upload)
   - Are you ready to proceed ? (Y/N) then you type "Y".
