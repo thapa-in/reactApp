@@ -1,8 +1,8 @@
 1. Open Project in windows explorer.
 1. Type "CMD" in address bar and press "enter"
 1. Command Prompt will open with path of your project
-1. Type command "NPM INSTALL -G FIREBASE-TOOLS"
-1. Type command "FIREBASE LOGIN"
+1. Type command **'NPM INSTALL -G FIREBASE-TOOLS'**
+1. Type command **'FIREBASE LOGIN'**
    - If already logged in then msg will show "you are logged in"
    - If you are not logged in then Browser will open with firebase login page
 1. Type command "firebase init" (for initialize all things ready to upload)
